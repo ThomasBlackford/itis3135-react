@@ -22,6 +22,9 @@ export default function Navbar() {
       <Link to="/contract" style={{ color: "white", textDecoration: "none" }}>
         Contract
       </Link>
+      <Link to="/student" style={{ color: "white", textDecoration: "none" }}>
+        Student
+      </Link>
       <a
         href="https://thomasblackford.github.io/itsc3135/"
         target="_blank"
